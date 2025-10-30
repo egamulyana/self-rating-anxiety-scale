@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+<h1>Website Self Rating Anxiety Scale</h1>
+<p>Web ini digunakan untuk melakukan penilaian tingkat kecemasan pengguna secara mandiri</p>
+<p>Kalian bisa melihatnya secara langsung lewat link tertera : https://self-rating-anxiety-scale.netlify.app/</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/14e98b70-5ac7-4131-b91c-79d347a95b87" />
+<img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/f1056c17-e836-4743-b5b7-03d2908011ab" />
+
+
+</div>

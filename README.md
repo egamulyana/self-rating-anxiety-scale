@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>Website Self Rating Anxiety Scale</h1>
+<h1>Website Self Rating Anxiety Scalee</h1>
 <p>Web ini digunakan untuk melakukan penilaian tingkat kecemasan pengguna secara mandiri</p>
 <p>Kalian bisa melihatnya secara langsung lewat link tertera : https://self-rating-anxiety-scale.netlify.app/</p>
 
